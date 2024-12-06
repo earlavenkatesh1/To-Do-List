@@ -15,3 +15,6 @@ This is a simple To-Do list application built using HTML, CSS, and JavaScript.
 
 ## Setup
 - No additional setup required. Just open the HTML file.
+
+## Live Demo
+Check out the live demo of this project: [To-Do List App](https://earlavenkatesh1.github.io/To-Do-List/)
